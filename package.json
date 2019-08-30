@@ -1,0 +1,38 @@
+{
+  "name": "pip-box-skills-v2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lathanashton/pip-box-skills-v2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lathanashton/pip-box-skills-v2/issues"
+  },
+  "homepage": "https://github.com/lathanashton/pip-box-skills-v2#readme",
+  "dependencies": {
+    "@google-cloud/storage": "^2.3.3",
+    "@google-cloud/vision": "^0.25.0",
+    "async": "^3.1.0",
+    "aws-sdk": "^2.487.0",
+    "axios": "^0.19.0",
+    "box-node-sdk": "^1.9.0",
+    "crypto": "^1.0.1",
+    "jest": "^22.4.3",
+    "jimp": "^0.5.6",
+    "lodash": "^4.17.15",
+    "md5-base64": "0.0.3",
+    "path": "^0.12.7",
+    "request": "^2.88.0",
+    "sharp": "^0.22.1",
+    "underscore": "^1.9.1",
+    "url-template": "^2.0.8"
+  }
+}
